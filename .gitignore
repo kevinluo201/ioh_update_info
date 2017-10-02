@@ -1,0 +1,5 @@
+# Ignore Byebug command history file.
+.byebug_history
+
+# Ignore mac ds_store
+.DS_Store
